@@ -1,5 +1,3 @@
----
-
 ### 🎓 **Informações Pessoais e Acadêmicas**
 
 | **Nome Completo** | Eduardo Oliveira da Fontoura |
