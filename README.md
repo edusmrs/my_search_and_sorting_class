@@ -1,4 +1,5 @@
-* **Disciplina:** [Pesquisa e Ordenação]
+### 📚 **Pesquisa e Ordenação**
+
 * **Professor(a):** [Alexandre Zamberlan]
 * **Código da Disciplina:** [G03C3]
 * **Horário:** [7:40 - 11:15]
