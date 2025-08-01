@@ -9,8 +9,6 @@
 | **Universidade** | Universidade Franciscana (UFN) |
 | **Localização** | Santa Maria, RS |
 
----
-
 ### 📚 **Sobre Esta Matéria**
 
 * **Professor(a):** [Nome do Professor(a)]
