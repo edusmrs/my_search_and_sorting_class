@@ -1,7 +1,9 @@
+* **Disciplina:** [Pesquisa e Ordenação]
+* **Professor(a):** [Alexandre Zamberlan]
+* **Código da Disciplina:** [G03C3]
+* **Horário:** [7:40 - 11:15]
 ---
-title: "Notas da Matéria"
-author: Eduardo Oliveira da Fontoura
----
+
 ### 🎓 **Informações Pessoais e Acadêmicas**
 
 | **Nome Completo** | Eduardo Oliveira da Fontoura |
@@ -13,9 +15,3 @@ author: Eduardo Oliveira da Fontoura
 
 ---
 
-### 📚 **Sobre Esta Matéria**
-
-* **Professor(a):** [Alexandre Zamberlan]
-* **Código da Disciplina:** [G03C3]
-* **Horário:** [7:40 - 11:15]
----
