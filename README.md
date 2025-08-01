@@ -1,3 +1,7 @@
+---
+title: "Notas da Matéria"
+author: Eduardo Oliveira da Fontoura
+---
 ### 🎓 **Informações Pessoais e Acadêmicas**
 
 | **Nome Completo** | Eduardo Oliveira da Fontoura |
