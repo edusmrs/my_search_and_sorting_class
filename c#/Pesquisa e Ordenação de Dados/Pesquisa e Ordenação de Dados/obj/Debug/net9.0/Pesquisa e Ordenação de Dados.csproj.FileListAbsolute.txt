@@ -1,0 +1,15 @@
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\bin\Debug\net9.0\Pesquisa e Ordenação de Dados.exe
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\bin\Debug\net9.0\Pesquisa e Ordenação de Dados.deps.json
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\bin\Debug\net9.0\Pesquisa e Ordenação de Dados.runtimeconfig.json
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\bin\Debug\net9.0\Pesquisa e Ordenação de Dados.dll
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\bin\Debug\net9.0\Pesquisa e Ordenação de Dados.pdb
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.AssemblyInfoInputs.cache
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.AssemblyInfo.cs
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.csproj.CoreCompileInputs.cache
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.sourcelink.json
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.dll
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\refint\Pesquisa e Ordenação de Dados.dll
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.pdb
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\Pesquisa e Ordenação de Dados.genruntimeconfig.cache
+C:\Users\edusm\Documents\GitHub\my_search_and_sorting_class\c#\Pesquisa e Ordenação de Dados\Pesquisa e Ordenação de Dados\obj\Debug\net9.0\ref\Pesquisa e Ordenação de Dados.dll
